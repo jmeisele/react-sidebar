@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React-Sidebar
+
+Animated sidebar made with `create-react-app`, `styled-components`, `react-router-dom` and `react-icons`.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
